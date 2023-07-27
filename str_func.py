@@ -1,3 +1,7 @@
 def str_upper(word):
-    """Это функция"""
+    """Эта функция крутая
+    """
+    pass
+def str_all_upper(word):
+    """Эта функция круче"""
     pass
